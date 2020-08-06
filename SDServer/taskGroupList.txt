@@ -1,0 +1,4 @@
+1;https://raw.githubusercontent.com/Luisa-Filipa/teste/master/teste.txt;BCrypt;10;$2y$12$rs6cyjt38ckdRyfpq0EM/.ziLPGgjzUa9hSE8quBG3gSHlNKuUvTy;0;0;all;1
+2;https://raw.githubusercontent.com/Luisa-Filipa/teste/master/teste.txt;BCrypt;10;$2y$12$rs6cyjt38ckdRyfpq0EM/.ziLPGgjzUa9hSE8quBG3gSHlNKuUvTy;0;0;all;1
+3;https://raw.githubusercontent.com/Luisa-Filipa/teste/master/teste.txt;BCrypt;20;$2y$12$rs6cyjt38ckdRyfpq0EM/.ziLPGgjzUa9hSE8quBG3gSHlNKuUvTy;3;3;abc;11
+4;https://raw.githubusercontent.com/Luisa-Filipa/teste/master/teste.txt;BCrypt;20;$2y$12$rs6cyjt38ckdRyfpq0EM/.ziLPGgjzUa9hSE8quBG3gSHlNKuUvTy;0;0;all;11

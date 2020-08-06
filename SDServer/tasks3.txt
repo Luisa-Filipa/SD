@@ -1,0 +1,5 @@
+0;null;false;0;0;5;abc;aaa,aab,aac,aba,abb;$2y$12$rs6cyjt38ckdRyfpq0EM/.ziLPGgjzUa9hSE8quBG3gSHlNKuUvTy;user;/Users/faculdade/Documents/SistemasDistribuidos/projeto/SDServer/Data/globalTask3.txt;3;3;3
+0;null;false;0;0;5;abc;abc,aca,acb,acc,baa;$2y$12$rs6cyjt38ckdRyfpq0EM/.ziLPGgjzUa9hSE8quBG3gSHlNKuUvTy;user;/Users/faculdade/Documents/SistemasDistribuidos/projeto/SDServer/Data/globalTask3.txt;3;3;3
+0;null;false;0;0;5;abc;bab,bac,bba,bbb,bbc;$2y$12$rs6cyjt38ckdRyfpq0EM/.ziLPGgjzUa9hSE8quBG3gSHlNKuUvTy;user;/Users/faculdade/Documents/SistemasDistribuidos/projeto/SDServer/Data/globalTask3.txt;3;3;3
+0;null;false;0;0;5;abc;bca,bcb,bcc,caa,cab;$2y$12$rs6cyjt38ckdRyfpq0EM/.ziLPGgjzUa9hSE8quBG3gSHlNKuUvTy;user;/Users/faculdade/Documents/SistemasDistribuidos/projeto/SDServer/Data/globalTask3.txt;3;3;3
+0;null;false;0;0;5;abc;cac,cba,cbb,cbc,cca,ccb,ccc;$2y$12$rs6cyjt38ckdRyfpq0EM/.ziLPGgjzUa9hSE8quBG3gSHlNKuUvTy;user;/Users/faculdade/Documents/SistemasDistribuidos/projeto/SDServer/Data/globalTask3.txt;3;3;3
